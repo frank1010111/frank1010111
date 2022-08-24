@@ -1,4 +1,3 @@
-Hi! 
 
 ## About me
 
@@ -44,6 +43,9 @@ there's hopefully something useful in here for you.
    are taken from
    [cjolowicz](https://github.com/cjolowicz/cookiecutter-hypermodern-python).
    It's based on [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
+1. Word documents tend to collect comments. Why? I'm not sure why. Sometimes,
+   I'd like to [take those comments](https://github.com/frank1010111/docx-comments)
+   and copy them to a text file.
 
 
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true)
