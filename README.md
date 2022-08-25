@@ -8,7 +8,7 @@ who will have me.
 
 I've been credibly accused of being eclectic. My degrees are in political
 science and physics. My research has covered everything from computational fluid
-dynamics to natural language processing to machine learning.
+dynamics to natural language processing to interpretable machine learning.
 
 ## About my code
 
