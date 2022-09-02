@@ -21,9 +21,9 @@ there's hopefully something useful in here for you.
 1. Ever maed a mistake? Me neither! Here are some mistakes that other people
    have or might make, specifically focusing on
    [statistics and rocks](https://github.com/frank1010111/statistical_missteps).
-1. Do you want to know how much your unconventional wells are going to make? How
-   about other people's wells? [Here](https://github.com/frank1010111/bluebonnet)
-   is the code to find that out. I'm particulary fond of this because I used
+1. Do you want to know [how much your unconventional wells are going to make](https://github.com/frank1010111/bluebonnet)?
+   How about other people's wells? Here is the code to find that out. I'm 
+   particulary fond of this because I used
    solutions to these equations to get a PhD. Somehow.
 1. I don't have anything clever to say about this one.
    [Gradient boosting applied to sandstone cores](https://github.com/frank1010111/cemented_sandstone_PB_ML).
@@ -34,7 +34,7 @@ there's hopefully something useful in here for you.
    [Here](https://github.com/frank1010111/percolation-theory-bayes) you can see
    some Bayesian analysis applied to percolation theory.
 1. Do you like birds and the noises they make? How about mimicking those noises?
-   With [this](https://github.com/frank1010111/viceroybot) you can tweet all sorts
+   With [this, you can tweet](https://github.com/frank1010111/viceroybot) all sorts
    of mimicry.
 1. Do you like writing python projects?
    [This](https://github.com/frank1010111/cookiecutter) is where I start with
