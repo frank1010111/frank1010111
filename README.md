@@ -47,6 +47,8 @@ there's hopefully something useful in here for you.
    I'd like to [take those comments](https://github.com/frank1010111/docx-comments)
    and copy them to a text file.
 
+Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=frank-male" target="_blank">Follow me on LinkedIn</a>
+
 
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true)
 
