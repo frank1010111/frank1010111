@@ -25,6 +25,8 @@ there's hopefully something useful in here for you.
    How about other people's wells? Here is the code to find that out. I'm 
    particulary fond of this because I used
    solutions to these equations to get a PhD. Somehow.
+1. Want to make friends with a geomodeler? Help them with getting information
+   [in and out of Petrel](https://github.com/frank1010111/petrelpy).
 1. I don't have anything clever to say about this one.
    [Gradient boosting applied to sandstone cores](https://github.com/frank1010111/cemented_sandstone_PB_ML).
    Maybe you want to see how to write a paper in markdown with the code
@@ -52,6 +54,5 @@ Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://ww
 
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&hide=jupyter%20notebook&layout=full)](https://github.com/anuraghazra/github-readme-stats)
