@@ -52,7 +52,7 @@ there's hopefully something useful in here for you.
 Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=frank-male" target="_blank">Follow me on LinkedIn</a>
 
 
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true)
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true&rank_icon=github)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
