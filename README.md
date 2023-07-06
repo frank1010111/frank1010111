@@ -55,4 +55,4 @@ Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://ww
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank1010111&count_private=true&show_icons=true&theme=cobalt&hide_title=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&hide=jupyter%20notebook&layout=full)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
