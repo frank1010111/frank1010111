@@ -41,8 +41,8 @@ there's hopefully something useful in here for you.
 1. Do you like writing python projects?
    [This](https://github.com/frank1010111/cookiecutter) is where I start with
    new projects. It's forked from the
-   [scikit-hep](https://github.com/scikit-hep/cookie) cookiecutter. Some ideas
-   are taken from
+   [scientific python](https://github.com/scientific-python/cookie) cookiecutter,
+   which you should probably be using rather than mine. Some ideas are taken from
    [cjolowicz](https://github.com/cjolowicz/cookiecutter-hypermodern-python).
    It's based on [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
 1. Word documents tend to collect comments. Why? I'm not sure why. Sometimes,
