@@ -15,6 +15,8 @@ dynamics to natural language processing to interpretable machine learning.
 If you ever want a programmer to grimace, show them their old code. That said,
 there's hopefully something useful in here for you.
 
+**Petroleum engineering and geology**
+
 1. Do you like capacitors? How about applying the equations for charging
    capacitors to oil fields? Have I got the
    [Pywaterflood](https://github.com/frank1010111/pywaterflood) code for you!
@@ -35,9 +37,11 @@ there's hopefully something useful in here for you.
    about his theories?
    [Here](https://github.com/frank1010111/percolation-theory-bayes) you can see
    some Bayesian analysis applied to percolation theory.
-1. Do you like birds and the noises they make? How about mimicking those noises?
-   With [this, you can tweet](https://github.com/frank1010111/viceroybot) all sorts
-   of mimicry.
+1. Not done with Bayes, are we? That's okay, I've also got
+   [Bayesian analysis](https://github.com/frank1010111/bayes-lucia)
+   applied to Lucia's rock typing.
+
+**Other software**
 1. Do you like writing python projects?
    [This](https://github.com/frank1010111/cookiecutter) is where I start with
    new projects. It's forked from the
@@ -45,9 +49,14 @@ there's hopefully something useful in here for you.
    which you should probably be using rather than mine. Some ideas are taken from
    [cjolowicz](https://github.com/cjolowicz/cookiecutter-hypermodern-python).
    It's based on [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
+1. Do you like birds and the noises they make? How about mimicking those noises?
+   With [this, you can tweet](https://github.com/frank1010111/viceroybot) all sorts
+   of mimicry.
 1. Word documents tend to collect comments. Why? I'm not sure why. Sometimes,
    I'd like to [take those comments](https://github.com/frank1010111/docx-comments)
    and copy them to a text file.
+1. Want to know how Iowa is doing on their [drive to 325](https://www.thedriveto325.com/)?
+   You can see a Bayesian [analysis of Iowa](https://github.com/frank1010111/iowa-scoring) football.
 
 Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=frank-male" target="_blank">Follow me on LinkedIn</a>
 
