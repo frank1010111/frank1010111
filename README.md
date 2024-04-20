@@ -30,7 +30,7 @@ there's hopefully something useful in here for you.
 1. Want to make friends with a geomodeler? Help them with getting information
    [in and out of Petrel](https://github.com/frank1010111/petrelpy).
 1. I don't have anything clever to say about this one.
-   [Gradient boosting applied to sandstone cores](https://github.com/frank1010111/cemented_sandstone_PB_ML).
+   [Predict permeability for sandstone cores with machine learning](https://github.com/frank1010111/cemented_sandstone_PB_ML).
    Maybe you want to see how to write a paper in markdown with the code
    included?
 1. Do you like [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes)? How
