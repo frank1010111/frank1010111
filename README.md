@@ -55,7 +55,7 @@ there's hopefully something useful in here for you.
 1. Word documents tend to collect comments. Why? I'm not sure why. Sometimes,
    I'd like to [take those comments](https://github.com/frank1010111/docx-comments)
    and copy them to a text file.
-1. Want to know how Iowa is doing on their [drive to 325](https://www.thedriveto325.com/)?
+1. Want to know how Iowa ~~is doing~~ *did* on their [drive to 325](https://www.thedriveto325.com/)?
    You can see a Bayesian [analysis of Iowa](https://github.com/frank1010111/iowa-scoring) football.
 
 Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=frank-male" target="_blank">Follow me on LinkedIn</a>
