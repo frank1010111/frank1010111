@@ -27,6 +27,9 @@ there's hopefully something useful in here for you.
    How about other people's wells? Here is the code to find that out. I'm 
    particulary fond of this because I used
    solutions to these equations to get a PhD. Somehow.
+1. Do you want to know [how much your conventional field is going to make](https://github.com/frank1010111/Estimating-RF-early-with-ML-classification)?
+   Interested in how it's gone in the past? Like gradient boosting? Here's
+   a library and example notebook for that.
 1. Want to make friends with a geomodeler? Help them with getting information
    [in and out of Petrel](https://github.com/frank1010111/petrelpy).
 1. I don't have anything clever to say about this one.
