@@ -67,4 +67,4 @@ Sometimes I post about my code on LinkedIn: <a class="libutton" href="https://ww
 ![Frank's GitHub stats](./profile/stats.svg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1010111&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)
