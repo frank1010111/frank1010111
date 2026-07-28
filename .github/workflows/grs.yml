@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&theme=cobalt
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,C%23&theme=cobalt
           path: profile/top-langs.svg
           token: ${{ secrets.PRIVATE_TOKEN }}
 
